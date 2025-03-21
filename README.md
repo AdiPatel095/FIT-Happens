@@ -76,7 +76,7 @@ npm test
 
 ## Questions
 If you have any questions, feel free to reach out to us:
-- GitHub: [Ivy-Taff](https://github.com/Ivy-Taff)
+- GitHub: [Adi Patel](https://github.com/AdiPatel095)
 - Email: 
   - Ivy Taff: ivy.taff@yahoo.com
   - Jason Gerdes: gerdesjasonl@gmail.com
